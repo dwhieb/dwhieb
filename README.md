@@ -6,35 +6,16 @@ I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [r
 
 I run the [Digital Linguistics][DLx] (DLx) project, which provides data format specifications and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
-#### 🌐 Find Me Online!
-
-🔗 [my website][website]
-
-📝 [my linguistics blog][blog]
-
-💬 [Twitter][Twitter]
-
-🎓 [Academia.edu][Academia]
-
-📚 [ResearchGate][ResearchGate]
-
-👨🏼‍🏫 [Google Scholar][Scholar]
-
-👔 [LinkedIn][LinkedIn]
-
-<img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID]
-
-#### 💻 Digital Linguistics (DLx)
-
-🔗 [website][DLx]
-
-👨🏼‍💻 [developers][DLx-dev]
-
-<img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
-
-📝 [blog][DLx-blog]
-
-💬 [Twitter][DLx-Twitter]
+<h3>🌐 Find Me Online!</h3>                                                    | <h3>💻 Digital Linguistics (DLx)</h3>
+--------------------------------------------------------------------------|---------------------------------
+🔗 [my website][website]                                                  | 🔗 [website][DLx]
+📝 [my linguistics blog][blog]                                            | 👨🏼‍💻 [developers][DLx-dev]
+💬 [Twitter][Twitter]                                                     | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
+🎓 [Academia.edu][Academia]                                               | 📝 [blog][DLx-blog]
+📚 [ResearchGate][ResearchGate]                                           | 💬 [Twitter][DLx-Twitter]
+👨🏼‍🏫 [Google Scholar][Scholar]                                              |
+👔 [LinkedIn][LinkedIn]                                                   |
+<img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID] |
 
 <!-- LINKS -->
 [21C]:          https://21c.tools/

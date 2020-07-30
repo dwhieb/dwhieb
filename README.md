@@ -6,13 +6,6 @@ I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [r
 
 I run the [Digital Linguistics][DLx] (DLx) project, which provides data format specifications and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
-<style>
-  .octicon {
-    margin:         0.25rem;
-    vertical-align: top;
-  }
-</style>
-
 #### 🌐 Find Me Online!
 
 🔗 [my website][website]
@@ -29,7 +22,7 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data format s
 
 👔 [LinkedIn][LinkedIn]
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1411-3773" href="https://orcid.org/0000-0002-1411-3773" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID 0000-0002-1411-3773</a></div>
+<img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID]
 
 #### 💻 Digital Linguistics (DLx)
 
@@ -37,7 +30,7 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data format s
 
 👨🏼‍💻 [developers][DLx-dev]
 
-<img class=octicon src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
+<img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
 
 📝 [blog][DLx-blog]
 
@@ -57,6 +50,7 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data format s
 [DLx-GitHub]:   https://github.com/digitallinguistics
 [DLx-Twitter]:  https://twitter.com/digitalling
 [LinkedIn]:     https://www.linkedin.com/in/dwhieb/
+[ORCID]:        https://orcid.org/0000-0002-1411-3773
 [Plains-Cree]:  https://en.wikipedia.org/wiki/Plains_Cree
 [renaissance]:  https://time.com/3975016/chitimacha-language-comeback/
 [ResearchGate]: https://www.researchgate.net/profile/Daniel_Hieber

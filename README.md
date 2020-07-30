@@ -1,4 +1,4 @@
-### Hello, I'm Danny Hieber! 👋🏻 I am a linguist. 🗣
+### Hello, I'm Danny! 👋🏻 I am a linguist. 🗣
 
 I'm a postdoctoral fellow in the [Alberta Language Technology Laboratory][ALT-Lab] (ALT Lab) at the University of Alberta. As part of an SSHRC grant on ["21st Century Tools for Indigenous Languages"][21C], I work with the [Cree language][Cree] communities (especially ᓀᐦᐃᔭᐍᐏᐣ _nêhiyawêwin_ or [Plains Cree][Plains-Cree]) to develop digital tools for their language, such as [smart online dictionaries][dictionary], spell checkers, and automated text parsers.
 

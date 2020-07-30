@@ -7,7 +7,7 @@ I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [r
 I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
 🌐 **Find Me Online!**                                                    | 💻 **Digital Linguistics (DLx)**
---------------------------------------------------------------------------|---------------------------------
+:------------------------------------------------------------------------:|:-------------------------------:
 🔗 [my website][website]                                                  | 🔗 [website][DLx]
 📝 [my linguistics blog][blog]                                            | 👨🏼‍💻 [developers][DLx-dev]
 💬 [Twitter][Twitter]                                                     | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]

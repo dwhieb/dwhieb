@@ -4,7 +4,7 @@ I'm a postdoctoral fellow in the [Alberta Language Technology Laboratory][ALT-La
 
 I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [revitalize their once-dormant language][renaissance]. We are using archival materials to produce a modern dictionary and grammar of the language.
 
-I run the [Digital Linguistics][DLx] (DLx) project, which provides data format specifications and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
+I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
 🌐 **Find Me Online!**                                                    | 💻 **Digital Linguistics (DLx)**
 --------------------------------------------------------------------------|---------------------------------

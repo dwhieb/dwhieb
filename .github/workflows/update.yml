@@ -1,0 +1,43 @@
+name: update
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+
+      # - name: set up Node
+      #   uses: actions/setup-node@v1
+      #   with:
+      #     node-version: 14.x
+
+      - name: install dependencies
+        run:  npm ci
+
+      - name: update readme
+        run:  npm run update
+
+      - name: commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "dwhieb@gmail.com"
+          git config --global user.name "dwhieb"
+          git add -A
+          git commit -m "update README.md" || exit 0
+          git push

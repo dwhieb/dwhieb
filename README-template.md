@@ -21,19 +21,11 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 
 #### Linguistics Blog
 
-
-- [Lexical flexibility in English: A preliminary study](https://blog.danielhieber.com/lexical-flexibility-in-english-a-preliminary-study/)
-- [Optional subject marking in Chitimacha](https://blog.danielhieber.com/cls-55-optional-subject-marking-in-chitimacha/)
-- [Digital Linguistics for Language Documentation](https://blog.danielhieber.com/digital-linguistics-for-language-documentation/)
-- [ILLS 11: Some tools for Digital Linguistics](https://blog.danielhieber.com/ills-11-abstract/)
+<!-- blog-posts -->
 
 #### Digital Linguistics (DLx) Blog
 
-
-- [DLx Word Aligner Library](https://medium.com/digital-linguistics/dlx-word-aligner-library-903111fcabad?source=rss----40d4e45e70ab---4)
-- [DLx Styles Library v0.19.0](https://medium.com/digital-linguistics/dlx-styles-library-v0-19-0-30dd37a1c04b?source=rss----40d4e45e70ab---4)
-- [DLx Data Format: v1.0.0!](https://medium.com/digital-linguistics/dlx-data-format-v1-0-0-4692305c9f6e?source=rss----40d4e45e70ab---4)
-- [Scription > DLx v0.6.0](https://medium.com/digital-linguistics/scription-dlx-v0-6-0-679fcac2be89?source=rss----40d4e45e70ab---4)
+<!-- dlx-posts -->
 
 <!-- LINKS -->
 [21C]:          https://21c.tools/

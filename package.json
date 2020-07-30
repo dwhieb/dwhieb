@@ -1,0 +1,25 @@
+{
+  "name": "dwhieb",
+  "version": "1.0.0",
+  "description": "My GitHub profile readme",
+  "homepage": "https://github.com/dwhieb",
+  "license": "MIT",
+  "author": "Daniel W. Hieber <dwhieb@gmail.com> (https://danielhieber.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhieb/dwhieb.git"
+  },
+  "main": "update.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "private": true,
+  "engines": {
+    "node": "14.x"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "eslint": "^7.5.0",
+    "xml2js": "^0.4.23"
+  }
+}

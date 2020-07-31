@@ -22,10 +22,10 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 #### Linguistics Blog
 
 
+- [Lecture: Language Endangerment & Revitalization](https://blog.danielhieber.com/lecture-language-endangerment-revitalization/)
 - [Lexical flexibility in English: A preliminary study](https://blog.danielhieber.com/lexical-flexibility-in-english-a-preliminary-study/)
 - [Optional subject marking in Chitimacha](https://blog.danielhieber.com/cls-55-optional-subject-marking-in-chitimacha/)
 - [Digital Linguistics for Language Documentation](https://blog.danielhieber.com/digital-linguistics-for-language-documentation/)
-- [ILLS 11: Some tools for Digital Linguistics](https://blog.danielhieber.com/ills-11-abstract/)
 
 #### Digital Linguistics (DLx) Blog
 

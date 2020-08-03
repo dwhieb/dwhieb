@@ -30,10 +30,10 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 #### Digital Linguistics (DLx) Blog
 
 
+- [Scription > DLx v0.11.0](https://medium.com/digital-linguistics/scription-dlx-v0-11-0-8f2222067a2c?source=rss----40d4e45e70ab---4)
 - [Scription v0.7.0](https://medium.com/digital-linguistics/scription-v0-7-0-ebe1b65a7b77?source=rss----40d4e45e70ab---4)
 - [DLx Word Aligner Library](https://medium.com/digital-linguistics/dlx-word-aligner-library-903111fcabad?source=rss----40d4e45e70ab---4)
 - [DLx Styles Library v0.19.0](https://medium.com/digital-linguistics/dlx-styles-library-v0-19-0-30dd37a1c04b?source=rss----40d4e45e70ab---4)
-- [DLx Data Format: v1.0.0!](https://medium.com/digital-linguistics/dlx-data-format-v1-0-0-4692305c9f6e?source=rss----40d4e45e70ab---4)
 
 <!-- LINKS -->
 [21C]:          https://21c.tools/

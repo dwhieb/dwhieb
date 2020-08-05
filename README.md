@@ -6,16 +6,8 @@ I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [r
 
 I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
-🌐 **Find Me Online!**                                                    | 💻 **Digital Linguistics (DLx)**
---------------------------------------------------------------------------|---------------------------------
-🔗 [my website][website]                                                  | 🔗 [website][DLx]
-📝 [my linguistics blog][blog]                                            | 👨🏼‍💻 [developers][DLx-dev]
-💬 [Twitter][Twitter]                                                     | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
-🎓 [Academia.edu][Academia]                                               | 📝 [blog][DLx-blog]
-📚 [ResearchGate][ResearchGate]                                           | 💬 [Twitter][DLx-Twitter]
-👨🏼‍🏫 [Google Scholar][Scholar]                                              |
-👔 [LinkedIn][LinkedIn]                                                   |
-<img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID] |
+[![dwhieb's github stats](https://github-readme-stats.vercel.app/api?username=dwhieb&count_private=true&show_icons=true)][GitHub]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhieb&layout=compact)][GitHub]
 
 ### Latest Posts
 
@@ -35,6 +27,17 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 - [DLx Word Aligner Library](https://medium.com/digital-linguistics/dlx-word-aligner-library-903111fcabad?source=rss----40d4e45e70ab---4)
 - [DLx Styles Library v0.19.0](https://medium.com/digital-linguistics/dlx-styles-library-v0-19-0-30dd37a1c04b?source=rss----40d4e45e70ab---4)
 
+🌐 **Find Me Online!**                                                    | 💻 **Digital Linguistics (DLx)**
+--------------------------------------------------------------------------|---------------------------------
+🔗 [my website][website]                                                  | 🔗 [website][DLx]
+📝 [my linguistics blog][blog]                                            | 👨🏼‍💻 [developers][DLx-dev]
+💬 [Twitter][Twitter]                                                     | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
+🎓 [Academia.edu][Academia]                                               | 📝 [blog][DLx-blog]
+📚 [ResearchGate][ResearchGate]                                           | 💬 [Twitter][DLx-Twitter]
+👨🏼‍🏫 [Google Scholar][Scholar]                                              |
+👔 [LinkedIn][LinkedIn]                                                   |
+<img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID] |
+
 <!-- LINKS -->
 [21C]:          https://21c.tools/
 [Academia]:     https://ucsb.academia.edu/dhieber
@@ -48,6 +51,7 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 [DLx-dev]:      https://developer.digitallinguistics.io/
 [DLx-GitHub]:   https://github.com/digitallinguistics
 [DLx-Twitter]:  https://twitter.com/digitalling
+[GitHub]:       https://github.com/dwhieb
 [LinkedIn]:     https://www.linkedin.com/in/dwhieb/
 [ORCID]:        https://orcid.org/0000-0002-1411-3773
 [Plains-Cree]:  https://en.wikipedia.org/wiki/Plains_Cree

@@ -6,6 +6,8 @@ I also work with the [Chitimacha Tribe of Louisiana][Chitimacha] to help them [r
 
 I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats and web-based tools for working with linguistic data. Check out the [DLx developers page][DLx-dev] or the [DLx organization on GitHub][DLx-GitHub].
 
+I am also a member of the [Algonquian Components Project][Nisinoon], a National Science Foundation–funded database of morphological components in Algonquian languages, which uses the [Digital Linguistics][DLx] infrastructure.
+
 [![dwhieb's github stats](https://github-readme-stats.vercel.app/api?username=dwhieb&count_private=true&show_icons=true)][GitHub]
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhieb&layout=compact)][GitHub]
 
@@ -53,6 +55,7 @@ I run the [Digital Linguistics][DLx] (DLx) project, which provides data formats 
 [DLx-Twitter]:  https://twitter.com/digitalling
 [GitHub]:       https://github.com/dwhieb
 [LinkedIn]:     https://www.linkedin.com/in/dwhieb/
+[Nisinoon]:     https://nisinoon.net
 [ORCID]:        https://orcid.org/0000-0002-1411-3773
 [Plains-Cree]:  https://en.wikipedia.org/wiki/Plains_Cree
 [renaissance]:  https://time.com/3975016/chitimacha-language-comeback/

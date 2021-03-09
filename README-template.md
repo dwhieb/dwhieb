@@ -21,22 +21,20 @@ I am also a member of the [Algonquian Components Project][Nisinoon], a National 
 
 <!-- dlx-posts -->
 
-🌐 **Find Me Online!**                                                    | 💻 **Digital Linguistics (DLx)**
---------------------------------------------------------------------------|---------------------------------
+🌐 **Find Me Online!**                                                     | 💻 **Digital Linguistics (DLx)**
+--------------------------------------------------------------------------|----------------------------------
 🔗 [my website][website]                                                  | 🔗 [website][DLx]
-📝 [my linguistics blog][blog]                                            | 👨🏼‍💻 [developers][DLx-dev]
-💬 [Twitter][Twitter]                                                     | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
-🎓 [Academia.edu][Academia]                                               | 📝 [blog][DLx-blog]
-📚 [ResearchGate][ResearchGate]                                           | 💬 [Twitter][DLx-Twitter]
-👨🏼‍🏫 [Google Scholar][Scholar]                                              |
+💬 [Twitter][Twitter]                                                     | 👨🏼‍💻 [developers][DLx-dev]
+🎓 [Academia.edu][Academia]                                               | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
+📚 [ResearchGate][ResearchGate]                                           | 📝 [blog][DLx-blog]
+👨🏼‍🏫 [Google Scholar][Scholar]                                              | 💬 [Twitter][DLx-Twitter]
 👔 [LinkedIn][LinkedIn]                                                   |
 <img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID] |
 
 <!-- LINKS -->
 [21C]:          https://21c.tools/
-[Academia]:     https://ucsb.academia.edu/dhieber
+[Academia]:     https://ualberta.academia.edu/DanielHieber
 [ALT-Lab]:      https://altlab.artsrn.ualberta.ca/
-[blog]:         https://blog.danielhieber.com/
 [Chitimacha]:   https://en.wikipedia.org/wiki/Chitimacha
 [Cree]:         https://en.wikipedia.org/wiki/Cree_language
 [dictionary]:   https://altlab.ualberta.ca/itwewina/

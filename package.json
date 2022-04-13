@@ -15,11 +15,11 @@
   },
   "private": true,
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
-    "eslint": "^7.5.0",
+    "axios": "^0.26.1",
+    "eslint": "^8.13.0",
     "xml2js": "^0.4.23"
   }
 }

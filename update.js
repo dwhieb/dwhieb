@@ -11,11 +11,8 @@ const {
   writeFile,
 } = require(`fs`).promises;
 
-const blogFeedURL = `https://blog.danielhieber.com/rss/`;
-const dlxFeedURL  = `https://medium.com/feed/digital-linguistics`;
-
-const blogPlaceholder = `<!-- blog-posts -->`;
-const dlxPlaceholder  = `<!-- dlx-posts -->`;
+const dlxFeedURL     = `https://medium.com/feed/digital-linguistics`;
+const dlxPlaceholder = `<!-- dlx-posts -->`;
 
 const readmePath         = path.join(__dirname, `./README.md`);
 const readmeTemplatePath = path.join(__dirname, `./README-template.md`);
@@ -28,10 +25,6 @@ function convertPosts(posts) {
 
 async function updateReadme() {
 
-  const blogResponse = await axios.get(blogFeedURL);
-  const blogFeed     = await parseStringPromise(blogResponse.data);
-  const blogEntries  = blogFeed.rss.channel[0].item.slice(0, 4);
-  const blogPosts    = convertPosts(blogEntries);
 
   const dlxResponse = await axios.get(dlxFeedURL);
   const dlxFeed     = await parseStringPromise(dlxResponse.data);
@@ -40,9 +33,7 @@ async function updateReadme() {
 
   let readme = await readFile(readmeTemplatePath, `utf8`);
 
-  readme = readme
-  .replace(blogPlaceholder, blogPosts)
-  .replace(dlxPlaceholder, dlxPosts);
+  readme = readme.replace(dlxPlaceholder, dlxPosts);
 
   await writeFile(readmePath, readme, `utf8`);
 

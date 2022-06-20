@@ -21,8 +21,8 @@ I am a member of the [Algonquian Components Project][Nisinoon], a National Scien
 --------------------------------------------------------------------------|----------------------------------
 🔗 [my website][website]                                                  | 🔗 [website][DLx]
 💬 [Twitter][Twitter]                                                     | 👨🏼‍💻 [developers][DLx-dev]
-🎓 [Academia.edu][Academia]                                               | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
-📚 [ResearchGate][ResearchGate]                                           | 📝 [blog][DLx-blog]
+📚 [ResearchGate][ResearchGate]                                           | <img src="GitHub.png" height="16" width="16"> [GitHub][DLx-GitHub]
+🎓 [Academia.edu][Academia]                                               | 📝 [blog][DLx-blog]
 👨🏼‍🏫 [Google Scholar][Scholar]                                              | 💬 [Twitter][DLx-Twitter]
 👔 [LinkedIn][LinkedIn]                                                   |
 <img src="ORCID.png" height="16" width="16"> [0000-0002-1411-3773][ORCID] |
@@ -36,7 +36,7 @@ I am a member of the [Algonquian Components Project][Nisinoon], a National Scien
 [DLx-GitHub]:   https://github.com/digitallinguistics
 [DLx-Twitter]:  https://twitter.com/digitalling
 [GitHub]:       https://github.com/dwhieb
-[LinkedIn]:     https://www.linkedin.com/in/dwhieb/
+[LinkedIn]:     https://www.linkedin.com/in/dhieber/
 [Nisinoon]:     https://nisinoon.net
 [ORCID]:        https://orcid.org/0000-0002-1411-3773
 [renaissance]:  https://time.com/3975016/chitimacha-language-comeback/

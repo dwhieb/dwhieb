@@ -32,7 +32,7 @@ I am a member of the [Algonquian Components Project][Nisinoon], a National Scien
 [DLx-GitHub]:   https://github.com/digitallinguistics
 [DLx-Twitter]:  https://twitter.com/digitalling
 [GitHub]:       https://github.com/dwhieb
-[LinkedIn]:     https://www.linkedin.com/in/dwhieb/
+[LinkedIn]:     https://www.linkedin.com/in/dhieber/
 [Nisinoon]:     https://nisinoon.net
 [ORCID]:        https://orcid.org/0000-0002-1411-3773
 [renaissance]:  https://time.com/3975016/chitimacha-language-comeback/
